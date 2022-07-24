@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="INSERT_OR_UPDATE">
+        <operation>read</operation>
+        <rca_type>generated</rca_type>
+        <source>bdc676957317130030f331d7caf6a74d</source>
+        <source_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</source_scope>
+        <source_table>sp_widget</source_table>
+        <source_type>6</source_type>
+        <status>2</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-05-23 17:24:41</sys_created_on>
+        <sys_id>3ed44b871be7c190ab783158cc4bcb7f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>3d1da2705b021200a4656ede91f91ab6</sys_name>
+        <sys_package display_value="Human Resources: Lifecycle Events" source="sn_hr_le">532da270dad21200a4656ede91f9331e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resources: Lifecycle Events">532da270dad21200a4656ede91f9331e</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_3ed44b871be7c190ab783158cc4bcb7f</sys_update_name>
+        <sys_updated_by>varun.arulmani@pwc.com</sys_updated_by>
+        <sys_updated_on>2022-06-23 20:22:32</sys_updated_on>
+        <target name="sn_hr_le_activity_status" target_table="sys_db_object">2c1fb207db2f8590bbb10be4e29619b0</target>
+        <target_scope display_value="Human Resources: Lifecycle Events">532da270dad21200a4656ede91f9331e</target_scope>
+        <target_table>sys_db_object</target_table>
+        <target_type>1</target_type>
+    </sys_restricted_caller_access>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Human Resources: Lifecycle Events">532da270dad21200a4656ede91f9331e</claim_owner_scope>
+        <claim_timestamp>182328196cd0000001</claim_timestamp>
+        <metadata_update_name>sys_restricted_caller_access_3ed44b871be7c190ab783158cc4bcb7f</metadata_update_name>
+        <previous_claim_app_version>19.0.0</previous_claim_app_version>
+        <previous_claim_name>Human Resources: Lifecycle Events</previous_claim_name>
+        <previous_claim_scope>532da270dad21200a4656ede91f9331e</previous_claim_scope>
+        <sys_created_by>varun.arulmani@pwc.com</sys_created_by>
+        <sys_created_on>2022-07-24 23:18:49</sys_created_on>
+        <sys_id>3e7823cf1bb455d0ab783158cc4bcb6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>varun.arulmani@pwc.com</sys_updated_by>
+        <sys_updated_on>2022-07-24 23:18:49</sys_updated_on>
+    </sys_claim>
+</record_update>

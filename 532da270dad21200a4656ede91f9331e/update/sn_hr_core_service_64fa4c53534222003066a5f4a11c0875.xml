@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_service">
+    <sn_hr_core_service action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approval_options/>
+        <at_a_glance_view/>
+        <auto_close_case>false</auto_close_case>
+        <auto_close_offset/>
+        <badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge>
+        <case_creation_service_config/>
+        <case_options>5ad4d1709f402200d9011977677fcfbb</case_options>
+        <close_when/>
+        <description>Service to onboard a new employee</description>
+        <flow/>
+        <fulfillment_instructions/>
+        <fulfillment_type>lifecycle_event</fulfillment_type>
+        <header_config_opened_for display_value="Request Onboarding Service Configuration for Opened for / Approver">e7ed4f5453700300eb7c0a1806dc34f7</header_config_opened_for>
+        <header_config_subject_person display_value="Request Onboarding Service Configuration for Subject Person/Task Assignee">dcfa279853700300eb7c0a1806dc34a6</header_config_subject_person>
+        <hr_criteria/>
+        <le_type display_value="New Hire Onboarding (Demo)">a889edd83b14405052ca655593efc458</le_type>
+        <name>New Hire Onboarding</name>
+        <producer display_value="New Hire Onboarding (Demo)">e339591c3b9884d052ca655593efc49b</producer>
+        <service_table>sn_hr_le_case</service_table>
+        <service_table_fields/>
+        <subject_person_access>true</subject_person_access>
+        <subject_person_related_lists/>
+        <sys_class_name>sn_hr_core_service</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-10-25 23:08:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>64fa4c53534222003066a5f4a11c0875</sys_id>
+        <sys_mod_count>26</sys_mod_count>
+        <sys_name>New Hire Onboarding</sys_name>
+        <sys_package display_value="Human Resources: Lifecycle Events" source="sn_hr_le">532da270dad21200a4656ede91f9331e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resources: Lifecycle Events">532da270dad21200a4656ede91f9331e</sys_scope>
+        <sys_update_name>sn_hr_core_service_64fa4c53534222003066a5f4a11c0875</sys_update_name>
+        <sys_updated_by>varun.arulmani@pwc.com</sys_updated_by>
+        <sys_updated_on>2022-05-23 17:08:19</sys_updated_on>
+        <template display_value="New Hire Onboarding">f2b15dd6532222003066a5f4a11c08d0</template>
+        <topic_detail display_value="New Hire Onboarding">58a50d1e53032200eb7c0a1806dc348a</topic_detail>
+        <value>request_onboarding</value>
+        <workflow_detail/>
+    </sn_hr_core_service>
+    <sys_translated_text action="delete_multiple" query="documentkey=64fa4c53534222003066a5f4a11c0875"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Human Resources: Lifecycle Events">532da270dad21200a4656ede91f9331e</claim_owner_scope>
+        <claim_timestamp>182328196f80000001</claim_timestamp>
+        <metadata_update_name>sn_hr_core_service_64fa4c53534222003066a5f4a11c0875</metadata_update_name>
+        <previous_claim_app_version>19.0.0</previous_claim_app_version>
+        <previous_claim_name>Human Resources: Lifecycle Events</previous_claim_name>
+        <previous_claim_scope>532da270dad21200a4656ede91f9331e</previous_claim_scope>
+        <sys_created_by>varun.arulmani@pwc.com</sys_created_by>
+        <sys_created_on>2022-07-24 23:18:49</sys_created_on>
+        <sys_id>be7823cf1bb455d0ab783158cc4bcb6e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>varun.arulmani@pwc.com</sys_updated_by>
+        <sys_updated_on>2022-07-24 23:18:49</sys_updated_on>
+    </sys_claim>
+</record_update>

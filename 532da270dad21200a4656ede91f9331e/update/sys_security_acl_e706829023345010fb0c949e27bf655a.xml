@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Allow report_view for records in sn_hr_le_activity, for users with role sn_hr_le.activity_reader or sn_hr_le.case_reader.</description>
+        <name>sn_hr_le_activity_status</name>
+        <operation display_value="report_view">0997ab83733303005978e4b9cdf6a7b9</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-11 18:20:52</sys_created_on>
+        <sys_id>e706829023345010fb0c949e27bf655a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>sn_hr_le_activity_status</sys_name>
+        <sys_package display_value="Human Resources: Lifecycle Events" source="sn_hr_le">532da270dad21200a4656ede91f9331e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resources: Lifecycle Events">532da270dad21200a4656ede91f9331e</sys_scope>
+        <sys_update_name>sys_security_acl_e706829023345010fb0c949e27bf655a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-23 17:06:14</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Human Resources: Lifecycle Events">532da270dad21200a4656ede91f9331e</claim_owner_scope>
+        <claim_timestamp>182328197150000001</claim_timestamp>
+        <metadata_update_name>sys_security_acl_e706829023345010fb0c949e27bf655a</metadata_update_name>
+        <previous_claim_app_version>19.0.0</previous_claim_app_version>
+        <previous_claim_name>Human Resources: Lifecycle Events</previous_claim_name>
+        <previous_claim_scope>532da270dad21200a4656ede91f9331e</previous_claim_scope>
+        <sys_created_by>varun.arulmani@pwc.com</sys_created_by>
+        <sys_created_on>2022-07-24 23:18:49</sys_created_on>
+        <sys_id>7e7823cf1bb455d0ab783158cc4bcbaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>varun.arulmani@pwc.com</sys_updated_by>
+        <sys_updated_on>2022-07-24 23:18:49</sys_updated_on>
+    </sys_claim>
+</record_update>
