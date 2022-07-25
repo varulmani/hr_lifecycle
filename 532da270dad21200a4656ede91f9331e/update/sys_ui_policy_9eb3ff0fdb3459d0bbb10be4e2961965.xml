@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <conditions/>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>HR Developer 1 UI Policy</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>hr.developer1</sys_created_by>
+        <sys_created_on>2022-07-25 00:08:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9eb3ff0fdb3459d0bbb10be4e2961965</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Developer 1 UI Policy</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Human Resources: Lifecycle Events" source="sn_hr_le">532da270dad21200a4656ede91f9331e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resources: Lifecycle Events">532da270dad21200a4656ede91f9331e</sys_scope>
+        <sys_update_name>sys_ui_policy_9eb3ff0fdb3459d0bbb10be4e2961965</sys_update_name>
+        <sys_updated_by>hr.developer1</sys_updated_by>
+        <sys_updated_on>2022-07-25 00:08:21</sys_updated_on>
+        <table>sn_hr_core_case</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Human Resources: Lifecycle Events">532da270dad21200a4656ede91f9331e</claim_owner_scope>
+        <claim_timestamp>18232f1decb0000001</claim_timestamp>
+        <metadata_update_name>sys_ui_policy_9eb3ff0fdb3459d0bbb10be4e2961965</metadata_update_name>
+        <previous_claim_app_version>19.0.0</previous_claim_app_version>
+        <previous_claim_name>Human Resources: Lifecycle Events</previous_claim_name>
+        <previous_claim_scope>532da270dad21200a4656ede91f9331e</previous_claim_scope>
+        <sys_created_by>varun.arulmani@pwc.com</sys_created_by>
+        <sys_created_on>2022-07-25 01:21:28</sys_created_on>
+        <sys_id>57844c531bb855d0ab783158cc4bcb4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>varun.arulmani@pwc.com</sys_updated_by>
+        <sys_updated_on>2022-07-25 01:21:28</sys_updated_on>
+    </sys_claim>
+</record_update>
