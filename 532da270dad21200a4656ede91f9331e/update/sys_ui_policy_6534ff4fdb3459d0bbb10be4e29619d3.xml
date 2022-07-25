@@ -19,22 +19,22 @@
 
 }]]></script_true>
         <set_values/>
-        <short_description>HR Developer 2 UI Policy</short_description>
+        <short_description>HR Developer 2 UI Policy - Deactivated</short_description>
         <sys_class_name>sys_ui_policy</sys_class_name>
         <sys_created_by>hr.developer2</sys_created_by>
         <sys_created_on>2022-07-25 00:10:17</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6534ff4fdb3459d0bbb10be4e29619d3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>HR Developer 2 UI Policy</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>HR Developer 2 UI Policy - Deactivated</sys_name>
         <sys_overrides/>
         <sys_package display_value="Human Resources: Lifecycle Events" source="sn_hr_le">532da270dad21200a4656ede91f9331e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Human Resources: Lifecycle Events">532da270dad21200a4656ede91f9331e</sys_scope>
         <sys_update_name>sys_ui_policy_6534ff4fdb3459d0bbb10be4e29619d3</sys_update_name>
-        <sys_updated_by>hr.developer2</sys_updated_by>
-        <sys_updated_on>2022-07-25 00:10:17</sys_updated_on>
+        <sys_updated_by>hr.developer1</sys_updated_by>
+        <sys_updated_on>2022-07-25 01:42:45</sys_updated_on>
         <table>sn_hr_core_case</table>
         <ui_type>0</ui_type>
         <view/>
